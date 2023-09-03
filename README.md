@@ -21,15 +21,17 @@ Machine learning algorithms are at the core of many data-driven applications, fr
 
 The following machine learning algorithms are included in this repository:
 
-- Linear Regression
+- Linear Regression (also with L1 and L2 Regularization)
 - Logistic Regression
 - k-Nearest Neighbors (k-NN)
+- C-Nearest Neighbors (C-NN)
 - Decision Trees
 - Random Forest
 - Support Vector Machines (SVM)
 - Principal Component Analysis (PCA)
 - Neural Networks (Multi-Layer Perceptron)
-- And more...
+- Hierarchical Agglomerative Clustering
+- KMeans Clustering
 
 Each algorithm is organized into its own directory and includes detailed explanations, comments, and Jupyter notebooks for easy experimentation.
 
@@ -40,7 +42,7 @@ To use any of the implemented algorithms, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/machine-learning-algorithms-from-scratch.git
+   git clone https://github.com/devProAbhi/MLcodefromScratch.git
    ```
 
 2. Navigate to the specific algorithm directory you're interested in.
